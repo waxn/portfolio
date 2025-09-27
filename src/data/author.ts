@@ -1,9 +1,9 @@
 import avatar from '../assets/images/sample-avatar.jpg';
 
 export const author = {
-  name: 'Site Author',
+  name: 'Linus Thoreson',
   avatar,
-  url: '#',
+  url: 'https://www.github.com/waxn',
 };
 
 export type Author = typeof author;

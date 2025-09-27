@@ -1,27 +1,28 @@
 export const studies = [
   {
-    title: "B.S. in Computer Science",
-    institution: "State University",
+    title: "High School Student",
+    institution: "Self-Directed Learning",
     description:
-      "Core CS foundations: data structures, algorithms, operating systems, networking, and databases; team capstone in web systems.",
+      "Passionate 14-year-old developer learning modern web technologies through hands-on projects and self-directed study. Focus on full-stack development and infrastructure.",
     tags: [
-      "Algorithms",
-      "Data Structures",
-      "Operating Systems",
-      "Databases",
-      "Networking",
+      "Web Development",
+      "Full-Stack",
+      "Infrastructure",
+      "AI Tools",
+      "Modern Technologies",
     ],
   },
   {
-    title: "M.S. in Software Engineering",
-    institution: "Tech Institute",
+    title: "Independent Developer",
+    institution: "Personal Projects & Open Source",
     description:
-      "Focus on distributed systems, testing strategies, and cloud architecture; thesis on resilience patterns in microservices.",
+      "Building real-world applications and contributing to open source projects. Learning through practical experience with modern frameworks and tools.",
     tags: [
-      "Distributed Systems",
-      "Cloud Architecture",
-      "Testing",
-      "Microservices",
+      "React",
+      "Svelte",
+      "Astro",
+      "Python",
+      "DevOps",
     ],
   },
 ];
