@@ -11,11 +11,11 @@ export const workIcons = {
 
 export const work = [
   {
-    title: "Independent Developer & Student",
+    title: "Vibe Coder & Experimenter",
     company: "Personal Projects",
     region: "Remote",
     description:
-      "Building full-stack applications using modern web technologies. Developing projects with React, Svelte, Astro, and Nuxt while learning Python frameworks like Flask and Django.",
+      "Tinkering with full-stack applications and figuring things out as I go. Playing around with React, Svelte, Astro, and Nuxt while experimenting with Python frameworks like Flask and Django.",
     technologies: [
       "React",
       "Svelte",
@@ -29,11 +29,11 @@ export const work = [
     ],
   },
   {
-    title: "Infrastructure Enthusiast",
+    title: "Tech Playground Manager",
     company: "Self-Hosted Lab",
     region: "Home Lab",
     description:
-      "Managing personal infrastructure with Proxmox virtualization, TrueNAS storage, Tailscale networking, and Cloudflare for global CDN. Learning DevOps practices through hands-on experience.",
+      "Building my own little tech empire with Proxmox, TrueNAS, Tailscale, and Cloudflare. Breaking things and learning how they work through experimentation and trial and error.",
     technologies: [
       "Proxmox",
       "TrueNAS",
@@ -45,11 +45,11 @@ export const work = [
     ],
   },
   {
-    title: "AI-Assisted Developer",
+    title: "AI-Powered Experimenter",
     company: "Open Source",
     region: "GitHub",
     description:
-      "Leveraging AI tools like Cursor and Claude for rapid development and learning. Contributing to open source projects and building innovative solutions with modern development practices.",
+      "Using AI tools like Cursor and Claude as my coding buddies to help me figure out what I'm doing. Contributing to open source projects and building random stuff that seems cool.",
     technologies: [
       "Cursor",
       "Claude",
