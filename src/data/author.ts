@@ -1,4 +1,4 @@
-import avatar from '../assets/images/sample-avatar.jpg';
+import avatar from '../assets/images/linus.jpg';
 
 export const author = {
   name: 'Linus Thoreson',
