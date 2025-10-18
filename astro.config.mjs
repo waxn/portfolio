@@ -1,17 +1,15 @@
-import tailwindcss from "@tailwindcss/vite";
-// @ts-check
-
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
-
 import tailwindcss from '@tailwindcss/vite';
+import markdoc from '@astrojs/markdoc';
+import react from '@astrojs/react';
+import keystatic from '@keystatic/astro';
 
-// https://astro.build/config
 export default defineConfig({
-    site: 'https://example.com',
-  integrations: [mdx(), sitemap()],
-
+  site: 'https://example.com',
+  integrations: [mdx(), sitemap(), markdoc(), react(), keystatic()],
+  output: 'server',
   vite: {
     plugins: [tailwindcss()],
   },
