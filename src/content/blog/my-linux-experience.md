@@ -6,7 +6,7 @@ description: >-
 author: Linus Thoreson
 pubDate: Oct 18 2025
 updatedDate: Oct 18 2025
-heroImage: ../../assets/images/my-linux-experience/heroImage.png
+heroImage: ../../assets/images/Zorin-OS-17-Default-Desktop.png
 category: Personal
 tags:
   - Linux
@@ -35,4 +35,4 @@ Zorin has a very good implementation of Wine built in. It is customized to the p
 
 # What I Don't Like
 
-Nothing
+Nothing at the time of writing. 
